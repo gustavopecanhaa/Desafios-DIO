@@ -1,87 +1,45 @@
-# ☁️ Resumo do Lab: Microsoft Azure e Introdução à Computação em Nuvem
 
-> 🧠 Este repositório contém um resumo completo das lições aprendidas durante o desenvolvimento do lab oferecido pela DIO, com foco em **Computação em Nuvem** e **Microsoft Azure**.
+# ☁️ Construindo Arquiteturas no Azure
 
----
-
-## 📌 Sumário
-
-- [📖 Introdução](#introdução)
-- [💡 O que é Computação em Nuvem?](#o-que-é-computação-em-nuvem)
-- [🔷 Microsoft Azure](#microsoft-azure)
-- [🛠️ Serviços e Conceitos Principais](#serviços-e-conceitos-principais)
-- [✅ Benefícios da Nuvem](#benefícios-da-nuvem)
-- [📚 Aprendizados do Lab](#aprendizados-do-lab)
-- [📝 Conclusão](#conclusão)
+Repositório criado como parte do **Desafio de Projeto da DIO**, com o objetivo de aplicar na prática os conhecimentos adquiridos sobre **cloud computing com Microsoft Azure**. Esta iniciativa integra meu portfólio como futuro engenheiro de software em formação.
 
 ---
 
-## 📖 Introdução
+## 📖 Sobre o Projeto
 
-Durante este laboratório, explorei os fundamentos da **Computação em Nuvem** e aprendi como a plataforma **Microsoft Azure** permite criar, hospedar e escalar aplicações de forma moderna, segura e eficiente.
-
----
-
-## 💡 O que é Computação em Nuvem?
-
-A computação em nuvem é um modelo que permite o acesso a recursos computacionais via internet. Entre seus principais benefícios estão:
-
-- 🔄 **Elasticidade:** ajuste automático de recursos conforme a demanda.
-- 📈 **Escalabilidade:** crescimento eficiente sem investimento em infraestrutura física.
-- 💰 **Redução de Custos:** pagamento sob demanda.
-- 🌍 **Acessibilidade:** acesso global via web, em qualquer dispositivo.
+Este projeto simula o desenvolvimento de uma arquitetura moderna e escalável na nuvem Azure, contemplando serviços essenciais como banco de dados, armazenamento, monitoramento e hospedagem de aplicações. A proposta é refletir o dia a dia de uma implementação real em ambiente cloud.
 
 ---
 
-## 🔷 Microsoft Azure
+## 🔧 Tecnologias e Serviços Utilizados
 
-O **Azure** é a nuvem da Microsoft, com uma gama poderosa de serviços integrados, incluindo:
-
-- ☁️ **Infraestrutura como Serviço (IaaS)**
-- ⚙️ **Plataforma como Serviço (PaaS)**
-- 🧠 **Serviços Cognitivos e de IA**
-- 🛡️ **Recursos de Segurança, Backup e Compliance**
-
----
-
-## 🛠️ Serviços e Conceitos Principais
-
-Entre os serviços e ferramentas explorados no lab, destacam-se:
-
-- 🖥️ **Máquinas Virtuais (VMs)**  
-- 📦 **Azure Storage (Blob, Queue, File, Disk)**  
-- 🔄 **Azure Functions (Serverless)**  
-- 🗃️ **Azure SQL Database**  
-- 🧪 **Azure CLI e Azure Portal**  
-- 🌐 **Serviços de Rede e Integração**
+- **Microsoft Azure**
+  - Azure App Service (hospedagem da aplicação)
+  - Azure SQL Database (persistência de dados)
+  - Azure Storage (armazenamento de arquivos)
+  - Azure Monitor (observabilidade e logs)
+  - Azure Resource Group (organização dos recursos)
+- **Visual Studio Code**
+- **Git e GitHub**
+- **Figma** (diagrama de arquitetura)
+- **Markdown** (documentação)
 
 ---
 
-## ✅ Benefícios da Nuvem
+## 🧭 Etapas Realizadas
 
-- 🚀 **Agilidade no desenvolvimento**
-- 🔒 **Segurança de alto nível**
-- 🧩 **Integração com ferramentas DevOps**
-- 💡 **Inovação com Inteligência Artificial e Machine Learning**
-- 🛠️ **Automação e gerenciamento centralizado**
-
----
-
-## 📚 Aprendizados do Lab
-
-Durante a prática, pude:
-
-- Compreender os fundamentos da computação em nuvem ☁️
-- Navegar e operar no **Azure Portal** com segurança 🧭
-- Criar e configurar recursos básicos como VMs, storage e bancos de dados 🛠️
-- Entender a arquitetura e boas práticas em ambientes cloud-first 💼
+1. **Estudo e análise da arquitetura proposta**
+2. **Criação do Resource Group** no Azure
+3. **Provisionamento dos serviços** via portal Azure
+4. **Configuração de variáveis de ambiente e conexões**
+5. **Criação de um App de exemplo** para simular o ambiente real
+6. **Geração do diagrama de arquitetura**
+7. **Documentação de todos os passos no repositório**
 
 ---
 
-## 📝 Conclusão
+## 💬 Considerações Finais
 
-Este laboratório foi uma excelente porta de entrada para o mundo da computação em nuvem. Com o **Microsoft Azure**, descobri uma plataforma poderosa e acessível para **desenvolver, hospedar e escalar aplicações modernas**, aprendendo na prática como a nuvem pode transformar o cenário tecnológico atual.
+Este projeto me proporcionou uma visão prática sobre os principais serviços da nuvem Azure e reforçou a importância de boas práticas na construção de arquiteturas escaláveis, seguras e bem documentadas.  
 
----
-
-📌 *Desenvolvido com dedicação durante os estudos na DIO 🚀*
+🧠 Aprendizado contínuo é o que move a tecnologia. Seguimos!
